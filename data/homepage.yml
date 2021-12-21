@@ -8,19 +8,17 @@ showcase:
   subtitle: "Data Scientist"
   description: ""
   image:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: ""
+    _2x: ""
   imageMobile:
-    x: "img/showcase/data-science.gif"
-    _2x: "img/showcase/data-science.gif"
+    x: ""
+    _2x: ""
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Jim"
     URL: "mailto:jimmurphy10@protonmail.com"
-
   socialLinks:
-
     - icon: "github"
       URL: "https://github.com/j-mrph"
 
@@ -34,10 +32,8 @@ about:
     I am a physicist turned data scientist working at the <a href="https://www.nao.org.uk/">National Audit Office</a> to bring insights to front line audit staff using a range of techniques and software.
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    Experienced at utilising <a href="https://azure.microsoft.com/en-us/">cloud</a> computing platforms for large scale data pipelines as well as
+    deploying and maintaining robust, user friendly analytics for use in production environments.
     </p>
     
   button:
@@ -63,35 +59,26 @@ experience:
     URL: "#"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Data Analyst"
+      company: "National Audit Office"
+      duration: "Sep 2019 - Present"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "Data Analyst (secondment)"
+      company: "Government Actuary's Department"
+      duration: "Spring 2021"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Data Science Intern"
+      company: "National Audit Office"
+      duration: "Aug 2018 - Sep 2019"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Penn State University"
+    - university: "University of Liverpool"
       year: "2014-2015"
-      degree: "Master of Business Administration (MBA)"
-
-    - university: "University of Pittsburgh"
-      year: "2008-2010"
-      degree: "Master of Industrial Engineering"
-      
-    - university: "Penn State University"
-      year: "2002-2006"
-      degree: "Bachelor of Mechanical Engineering"
-
+      degree: "Master of Physics (First Class)"
 
 
 # Client & Work
@@ -100,61 +87,18 @@ client_and_work:
   enable: true
   
   enable_clients: false
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
-
+  
   works:
-    - title: "Sales Demand Forecast Application"
-      description: "This application helps Marketing & Sales identify trends in product demand. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
+    - title: "FPL Data Explore"
+      description: "Tool for exploring optimal player selection in [Fantasy Premier League](https://fantasy.premierleague.com/). Built using [flexdashboard](https://pkgs.rstudio.com/flexdashboard/)."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/sales_dashboard_demand_forecast/"
+        URL: "https://jmurph.shinyapps.io/fpl-app/"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
-      is_even: true
-
-    - title: "Product Price Recommendation"
-      description: "This application helps Marketing & R&D Teams determine product gaps and price new products to fill the gaps using machine learning. The application is built in my Shiny Predictive Dashboards Course using Machine Learning."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://business-science.shinyapps.io/cannondale_price_prediction_app/"
-      image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/fpl.jpg"
+        _2x: "img/works/fpl.jpg"
       is_even: false
-
-    
 
 # testimonial
 testimonial:
@@ -165,7 +109,7 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
+  title: "Contact Jim"
     
   image:
     x: "img/who-am-i/user-picture-2.jpg"
