@@ -3,15 +3,8 @@ languageCode: en-us
 theme: raditian-free-hugo-theme-data-science
 params:
   footer:
-    copyright: © Matt Dancho. All rights reserved.
-    site_logo:
-      _2x: img/general/business-science-logo.png
-      alt: Design & Code - Business Science
-      x: img/general/business-science-logo.png
+    copyright: © Jim Murphy.
   googleAnalyticsID: ''
-  logo:
-    text1: Matt
-    text2: Dancho
   plugins:
     css:
       - URL: css/main.css
@@ -41,6 +34,9 @@ menu:
     - URL: '#contact'
       name: Contact
       weight: 4
+    - URL: 'https://github.com/j-mrph'
+      name: github
+      weight: 5
   header:
     - URL: '#about'
       name: About
@@ -51,3 +47,6 @@ menu:
     - URL: '#contact'
       name: Contact
       weight: 4
+    - URL: 'https://github.com/j-mrph'
+      name: github
+      weight: 5

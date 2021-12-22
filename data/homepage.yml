@@ -18,9 +18,6 @@ showcase:
     icon: "icon-mail-fill"
     btnText: "Contact Jim"
     URL: "mailto:jimmurphy10@protonmail.com"
-  socialLinks:
-    - icon: "github"
-      URL: "https://github.com/j-mrph"
 
 
 # about
@@ -35,11 +32,9 @@ about:
     Experienced at utilising <a href="https://azure.microsoft.com/en-us/">cloud</a> computing platforms for large scale data pipelines as well as
     deploying and maintaining robust, user friendly analytics for use in production environments.
     </p>
-    
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    <p class ="lead">
+    I am a passionate user of R to develop web applications in <a href="https://shiny.rstudio.com/">Shiny</a>, create data visualisations using <a href="https://ggplot2.tidyverse.org/">ggplot2</a> and build interactive reporting with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>.
+    </p>
   image:
     x: "img/who-am-i/jim-murphy.jpg"
     _2x: "img/who-am-i/jim-murphy.jpg"
@@ -48,15 +43,11 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "3+ years delivering insights to enhance transaparency and scrutiny in public spending. I deploy and maintain analytics used by hundreds of financial professionals to make their lives easier and increase quality."
   button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
-  button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
+    btnText: "Curriculum Vitae"
+    URL: "Jim-Murphy-CV.pdf"
 
   items:
     - title: "Data Analyst"
@@ -90,7 +81,7 @@ client_and_work:
   
   works:
     - title: "FPL Data Explore"
-      description: "Tool for exploring optimal player selection in [Fantasy Premier League](https://fantasy.premierleague.com/). Built using [flexdashboard](https://pkgs.rstudio.com/flexdashboard/)."
+      description: "Tool for exploring optimal player selection in Fantasy Premier League. Built using flexdashboard and the premier league API."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
@@ -112,23 +103,16 @@ contact:
   title: "Contact Jim"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/jim-murphy-small.jpg"
+    _2x: "img/who-am-i/jim-murphy-small.jpg"
     
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
     btnAction: 'mailto:your-email@gmail.com'
-    
-  phone:
-    title: "Phone Number"
-    number: "--"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
-  address:
-    title: "Address"
-    address: "--"
+    email: '<a href="mailto:jimmurphy10@protonmail.com">jimmurphy10@protonmail.com</a>'
   
 
 # newsletter
@@ -138,3 +122,6 @@ newsletter:
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
   note: "We'll never share your email with anyone else."
+  
+
+
