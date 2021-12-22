@@ -63,15 +63,8 @@ theme = "raditian-free-hugo-theme"
 
   googleAnalyticsID = "" 
 
-  [params.logo]
-    text1 = "Matt"
-    text2 = "Dancho"
-
   [params.footer]
-      copyright = "© Matt Dancho. All rights reserved."
-      [params.footer.site_logo]
-        x = "img/general/business-science-logo.png"
-        _2x = "img/general/business-science-logo.png"
-        alt = "Design & Code - Business Science"
+      copyright = "© Jim Murphy."
+     
   
   
