@@ -1,8 +1,8 @@
 # Personal site
 
-A personal website built using `portfoliodown` package which can be found [here](https://github.com/business-science/portfoliodown).
+A personal website built using the [`portfoliodown`](https://github.com/business-science/portfoliodown) package.
 
-
+Check it out deployed at [jmrph.org](https://jmrph.org/)
 
 ## Acknowledgements
 
