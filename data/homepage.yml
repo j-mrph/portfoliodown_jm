@@ -7,12 +7,11 @@ showcase:
   title: "Hi, I’m Jim Murphy."
   subtitle: "Data Scientist"
   description: ""
-
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Jim"
     URL: "mailto:jimmurphy10@protonmail.com"
-
+  
 
 # about
 about:
@@ -23,7 +22,7 @@ about:
     I am a physicist turned data scientist working at the <a href="https://www.nao.org.uk/">National Audit Office</a> to bring insights to front line audit staff using a range of techniques and software.
     </p>
     <p class="lead">
-    Experienced at utilising <a href="https://azure.microsoft.com/en-us/">cloud</a> computing platforms for large scale data pipelines as well as
+    Experienced at utilising <b>cloud</b> computing platforms for large scale data pipelines as well as
     deploying and maintaining robust, user friendly analytics for use in production environments.
     </p>
     <p class ="lead">
@@ -75,7 +74,7 @@ client_and_work:
   
   works:
     - title: "FPL Data Explore"
-      description: "Tool for exploring optimal player selection in Fantasy Premier League. Built using flexdashboard and the premier league API."
+      description: "Tool for exploring optimal player selection in Fantasy Premier League. Built using RShiny, flexdashboard and the premier league API."
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
