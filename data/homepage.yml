@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hi, I’m Jim Murphy."
-  subtitle: "Data Scientist"
+  subtitle: "Data Analytics Specialist"
   description: ""
   button:
     icon: "icon-mail-fill"
@@ -19,14 +19,11 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    I am a physicist turned data scientist working at the <a href="https://www.nao.org.uk/">National Audit Office</a> to bring insights to front line audit staff using a range of techniques and software.
+    I am a physicist turned data engineer & analytics developer working at the <a href="https://www.nao.org.uk/">National Audit Office</a> to bring insights to front line audit staff using a range of techniques and software.
     </p>
     <p class="lead">
     Experienced at utilising <b>cloud</b> computing platforms for large scale data pipelines as well as
     deploying and maintaining robust, user friendly analytics for use in production environments.
-    </p>
-    <p class ="lead">
-    I am a passionate user of R to develop web applications in <a href="https://shiny.rstudio.com/">Shiny</a>, create data visualisations using <a href="https://ggplot2.tidyverse.org/">ggplot2</a> and build interactive reporting with <a href="https://rmarkdown.rstudio.com/">Rmarkdown</a>.
     </p>
   image:
     x: "img/who-am-i/jim-murphy.jpg"
@@ -43,11 +40,11 @@ experience:
     URL: "Jim-Murphy-CV.pdf"
 
   items:
-    - title: "Data Analyst"
+    - title: "Data Analytics Developer"
       company: "National Audit Office"
       duration: "Sep 2019 - Present"
 
-    - title: "Data Analyst (secondment)"
+    - title: "Data Analytics Developer (secondment)"
       company: "Government Actuary's Department"
       duration: "Spring 2021"
 
