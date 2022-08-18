@@ -80,6 +80,17 @@ client_and_work:
         x: "img/works/fpl.jpg"
         _2x: "img/works/fpl.jpg"
       is_even: false
+      
+    - title: "Vanguard UK Fund Comparison"
+      description: "This application allows a comparison between accumulation funds offered by Vanguard UK. Calculated using historical monthly change data from the Vanguard website. Includes ARIMA forecast where enough data is available. Written in Python Dash."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://vanguard-dash-app.herokuapp.com/"
+      image:
+        x: "img/works/vanguarddash.png"
+        _2x: "img/works/vanguarddash.png"
+      is_even: true
 
 # testimonial
 testimonial:
