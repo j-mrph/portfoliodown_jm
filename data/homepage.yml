@@ -19,12 +19,14 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    I am a physicist turned data engineer & analytics developer working at the <a href="https://www.nao.org.uk/">National Audit Office</a> to bring insights to front line audit staff using a range of techniques and software.
+    I am a physicist turned data engineer & analytics developer currently based in <b>London UK</b>.
     </p>
     <p class="lead">
     Experienced at utilising <b>cloud</b> computing platforms for large scale data pipelines as well as
     deploying and maintaining robust, user friendly analytics for use in production environments.
     </p>
+    <p class="lead">
+    Outside of data I enjoy Lidos 🏊‍♂ Live Music 🎸 Dim Sum 🥟 and Liverpool FC ⚽️
   image:
     x: "img/who-am-i/jim-murphy.jpg"
     _2x: "img/who-am-i/jim-murphy.jpg"
@@ -33,16 +35,20 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "3+ years delivering insights to enhance transaparency and scrutiny in public spending. I deploy and maintain analytics used by hundreds of financial professionals to make their lives easier and increase quality."
+  description: "4+ years delivering insights to enhance transparency and scrutiny across a multitude of sectors. I deploy and maintain analytics used by hundreds of professionals to make their lives easier and decision making more data led."
   button:
     icon: "icon-profile-fill"
     btnText: "Curriculum Vitae"
     URL: "Jim-Murphy-CV.pdf"
 
   items:
+    - title: "Data Engineer"
+      company: "Sainsbury's"
+      duration: "Autumn 2022 - Present"
+  
     - title: "Data Analytics Developer"
       company: "National Audit Office"
-      duration: "Sep 2019 - Present"
+      duration: "Autumn 2019 - Autumn 2022"
 
     - title: "Data Analytics Developer (secondment)"
       company: "Government Actuary's Department"
@@ -58,7 +64,7 @@ education:
   title: "Education"
   items:
     - university: "University of Liverpool"
-      year: "2014-2015"
+      year: "2011-2015"
       degree: "Master of Physics (First Class)"
 
 
@@ -91,6 +97,17 @@ client_and_work:
         x: "img/works/vanguarddash.png"
         _2x: "img/works/vanguarddash.png"
       is_even: true
+      
+    - title: "Integrated Care Systems"
+      description: "As part of my work at the National Audit Office I developed this interactive visualisation to acompany the published report into Integrated Care Systems. Built using Leaflet and RShiny."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://nao-mesh.shinyapps.io/ICS_Visualisation/"
+      image:
+        x: "img/works/ICS.png"
+        _2x: "img/works/ICS.png"
+      is_even: false
 
 # testimonial
 testimonial:
