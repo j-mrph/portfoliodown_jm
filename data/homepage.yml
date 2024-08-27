@@ -5,12 +5,12 @@ head:
 showcase:
   enable: true
   title: "Hi, I’m Jim Murphy."
-  subtitle: "Data Analytics Specialist"
+  subtitle: "Data Engineer & Analytics Expert"
   description: ""
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Jim"
-    URL: "mailto:jimmurphy10@protonmail.com"
+    URL: "mailto:jim@jmrph.org"
   
 
 # about
@@ -127,10 +127,10 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnAction: 'mailto:jim@jmrph.org'
   email:
     title: "Email"
-    email: '<a href="mailto:jimmurphy10@protonmail.com">jimmurphy10@protonmail.com</a>'
+    email: '<a href="mailto:jim@jmrph.org">jim@jmrph.org</a>'
   
 
 # newsletter
