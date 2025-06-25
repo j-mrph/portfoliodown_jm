@@ -10,7 +10,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Jim"
-    URL: "mailto:jim@jmrph.org"
+    URL: "mailto:jmrph@proton.me"
   
 
 # about
@@ -127,10 +127,10 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:jim@jmrph.org'
+    btnAction: 'mailto:jmrph@proton.me'
   email:
     title: "Email"
-    email: '<a href="mailto:jim@jmrph.org">jim@jmrph.org</a>'
+    email: '<a href="mailto:jmrph@proton.me">jmrph@proton.me</a>'
   
 
 # newsletter
