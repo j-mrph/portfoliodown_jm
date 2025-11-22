@@ -92,7 +92,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Launch Application"
-        URL: "https://vanguard-dash-app.herokuapp.com/"
+        URL: "https://vanguard-compare.onrender.com"
       image:
         x: "img/works/vanguarddash.png"
         _2x: "img/works/vanguarddash.png"
