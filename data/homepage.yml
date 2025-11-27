@@ -35,11 +35,11 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "4+ years delivering insights to enhance transparency and scrutiny across a multitude of sectors. I deploy and maintain analytics used by hundreds of professionals to make their lives easier and decision making more data led."
+  description: "6+ years delivering insights to enhance transparency and scrutiny across a multitude of sectors. I deploy and maintain analytics used by hundreds of professionals to make their lives easier and decision making more data led."
   button:
     icon: "icon-profile-fill"
     btnText: "Curriculum Vitae"
-    URL: "Jim-Murphy-CV.pdf"
+    URL: "https://j-mrph.github.io/cv/assets/Jim-Murphy-CV.pdf"
 
   items:
     - title: "Data Engineer"
